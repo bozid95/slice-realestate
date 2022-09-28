@@ -1,0 +1,77 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #eff4ff;
+}
+/* nav */
+.navbar-brand {
+  color: black;
+  font-weight: 900;
+}
+
+.navbar-nav {
+  color: #475467;
+  size: 16px;
+  line-height: 24px;
+}
+
+.btn-sign {
+  color: #475467;
+  background-color: #eff4ff;
+  border: none;
+}
+
+/* hero section */
+#hero {
+  padding-top: 5rem;
+  height: 100vh;
+  width: 100%;
+}
+
+.hero-tagline h1 {
+  size: 60px;
+  font-weight: 600;
+  line-height: 3rem;
+}
+.hero-tagline span {
+  color: rgb(124, 31, 179);
+}
+
+.hero-tagline p {
+  width: 70%;
+  size: 20px;
+  line-height: 2rem;
+  font-weight: 400;
+  color: #475467;
+}
+
+.hero-tagline form {
+  width: 70%;
+}
+
+.btn-sign {
+  margin-right: 1rem;
+}
+
+#service {
+  padding-bottom: 5rem;
+}
+
+.gambar2 {
+  margin-top: -5rem;
+}
+
+.container {
+  padding-bottom: 2rem;
+}
+
+.card-img-overlay {
+  padding-top: 7rem;
+}
+.body-card {
+  color: white;
+  background: rgba(92, 92, 91, 0.892);
+}
+
+#icontext {
+  margin-left: 1rem;
+}
